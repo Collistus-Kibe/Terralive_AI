@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+aiomysql
+elasticsearch
+firebase-admin
+google-cloud-aiplatform
+earthengine-api
+websockets
+httpx
