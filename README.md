@@ -1,4 +1,4 @@
-<img width="1024" height="559" alt="34" src="https://github.com/user-attachments/assets/461833c5-c07b-4a25-807b-c8a39ea28a2b" />
+![terra_image2_compressed](https://github.com/user-attachments/assets/a441a3df-d001-4834-9190-8b8e98b155cb)
 
 #🌱 TerraLive: Elastic-Powered Agritech Agent
 
