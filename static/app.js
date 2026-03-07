@@ -7,12 +7,12 @@ console.log("TerraLive Frontend Initialized");
 //  FIREBASE AUTH
 // ═══════════════════════════════════════════════════════════
 const firebaseConfig = {
-    apiKey: "AIzaSyCbyAWDwQwHp0i6IC81ZeIjyUBXL1DvtEI",
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
     authDomain: "terralive-agent.firebaseapp.com",
     projectId: "terralive-agent",
     storageBucket: "terralive-agent.firebasestorage.app",
-    messagingSenderId: "660628975415",
-    appId: "1:660628975415:web:a1e07d780430ea76b334b2",
+    messagingSenderId: "xxxxxxxxxxxxxxx5415",
+    appId: "1:660628975415:web:a1e07dxxxxxxxxxxea76b334b2",
 };
 
 firebase.initializeApp(firebaseConfig);
